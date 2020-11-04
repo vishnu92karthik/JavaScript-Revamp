@@ -12,7 +12,7 @@ const number = parseInt(prompt("Enter a number "));
  }else{
  console.log('this is odd integer');
  }
-
+ Using Ternary Operator
  const number = parseInt(prompt("Enter a number "));
 
 const result = (number%2==0) ? 'even' : 'odd';
