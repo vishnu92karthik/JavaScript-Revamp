@@ -27,4 +27,15 @@ b= a-b;
 a = a-b;
  console.log(`the value after swapping: ${a}`);
  console.log(`the value after swapping: ${b}`);
+ // Using Bitwise XOR operator
+
+let a = parseInt(prompt('enter a value: '));
+ let b = parseInt(prompt('enter b value: '));
+ 
+a = a ^ b
+b = a ^ b
+a = a ^ b
+
+ console.log(`the value after swapping: ${a}`);
+ console.log(`the value after swapping: ${b}`);
  
