@@ -1,0 +1,22 @@
+.input1 {
+  margin: auto;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.input2 {
+  margin: auto;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.button {
+  align-items: center;
+  margin-left: 180px;
+}
+.output {
+  margin-top: 20px;
+  margin-left: 60px;
+}
