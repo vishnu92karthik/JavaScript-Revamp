@@ -1,0 +1,54 @@
+#body {
+  text-align: center;
+  border-radius: 20px;
+  width: 370px;
+  height: 350px;
+  padding: 150px;
+  border: 1px solid darkorange;
+  border-left-width: 20px;
+  border-block-end-width: 20px;
+  margin: auto;
+}
+::placeholder {
+  text-align: left;
+  padding-top: 15px;
+}
+#firstname {
+  padding-top: 10px;
+  padding-bottom: 12px;
+  margin-left: 12px;
+  border-radius: 15px;
+}
+#lastname {
+  padding-top: 10px;
+  padding-bottom: 12px;
+  border-radius: 15px;
+}
+#mailid {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 185px;
+  margin: 15px;
+  border-radius: 15px;
+}
+#pwd {
+  padding-right: 185px;
+  margin: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 15px;
+}
+
+#mobile {
+  padding-right: 185px;
+  margin: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 15px;
+}
+
+#button {
+  text-align: center;
+  margin: 15px;
+  border-radius: 15px;
+}
